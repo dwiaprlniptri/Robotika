@@ -1,17 +1,0 @@
-5
-.\mysql-relay-bin-2025@002d04@002d21@002020@003a45@003a18@00200@0020@005bnote@005d@0020c@003a@005cxampp@005cmysql@005cbin@005cmysqld@002eexe@003a@0020ready@0020for@0020connections@002e@000d.000001
-4
-
-0
-0
-0
-ash table
-2025-05-06 10:15:05 14 [Note] Master 'Version: '10.4.28-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution': Slave I/O thread exiting, read up to log 'FIRST', position 4
-2025-05-06 10:15:05 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
-Version: '10.4.28-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
-2025-05-06 10:15:05 14 [Note] Master 'Version: '10.4.28-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution': master was :3306
-onnection attempt terminated. Internal MariaDB error code: 1593
-2025-05-06 10:15:05 0 [Note] Reading of all Master_info entries succeeded
-2025-05-06 10:15:05 14 [Note] Master 'Version: '10.4.28-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution': Slave I/O thread killed while connecting to master
-2025-05-06 10:15:05 0 [Note] Added new Master_info '' toQL thread initialized, starting replication in log 'FIRST' at position 0, relay log '.\mysql-relay-bin-2025@002d04@002d21@002020@003a45@003a18@00200@0020@005bnote@005d@0020c@003a@005cxampp@005cmysql@005cbin@005cmysqld@002eexe@003a@0020ready@0020for@0020connections@002e@000d.000001' position: 4
-2025-05-06 10:15:05 12 [ERROR] Master '2025-04-21 20:45:18 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.': Slave I/O: Fatal error: Invalid (empty) username when attempting to connect to the master s
